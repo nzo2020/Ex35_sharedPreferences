@@ -119,10 +119,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-
-
-
-
     /**
      * Handles menu item selections, navigating to the credits screen if selected.
      *
